@@ -13,6 +13,7 @@ FOR TF TFSTATE AND DATASOURCE
 https://developer.hashicorp.com/terraform/language/settings/backends/gcs
 
 TO UNDERSTAND COUNT AND FOR_EACH
+
 https://medium.com/@business_99069/terraform-count-vs-for-each-b7ada2c0b186
 
 https://developer.hashicorp.com/terraform/language/meta-arguments/count
